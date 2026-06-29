@@ -1,7 +1,7 @@
 [project]
 name = "comfyui-wedgediff"
 description = "Sidebar panel for ComfyUI that auto-captures every prompt run, diffs the workflow graph between any two runs (added/removed/type-swapped/changed nodes, including inside subgraphs), locates changes directly on the canvas, and pairs the diff with a drag-and-drop wipe-compare of the outputs."
-version = "0.1.0"
+version = "0.1.1"
 license = { file = "LICENSE.txt" }
 dependencies = []
 
