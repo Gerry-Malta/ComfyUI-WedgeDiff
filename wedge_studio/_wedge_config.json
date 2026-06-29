@@ -1,0 +1,24 @@
+{
+  "comfy_path": "D:\\ComfyUI",
+  "timeout": 20,
+  "workflow_folder": "D:\\01_Work\\260529_AnimateHair_Test\\workflows\\SCAIL2",
+  "order": [
+    {
+      "type": "single",
+      "name": "hair2"
+    },
+    {
+      "type": "single",
+      "name": "muscle2"
+    },
+    {
+      "type": "single",
+      "name": "tattoo2"
+    },
+    {
+      "type": "single",
+      "name": "wound2"
+    }
+  ],
+  "comfy_server": "127.0.0.1:8188"
+}
